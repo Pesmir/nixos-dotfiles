@@ -44,7 +44,7 @@ with lib.my;
 
       # I only need a subset of home-manager's capabilities. That is, access to
       # its home.file, home.xdg.configFile and home.xdg.dataFile so I can deploy
-      # files easily to my $HOME, but 'home-manager.users.mathym.home.file.*'
+      # files easily to my $HOME, but 'home-manager.users.jpesenhofer.home.file.*'
       # is much too long and harder to maintain, so I've made aliases in:
       #
       #   home.file        ->  home-manager.users.$USER.home.file
