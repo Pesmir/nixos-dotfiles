@@ -42,6 +42,8 @@ in {
       psmisc
       # Simplified and community-driven man pages
       tldr
+      # A utility that combines the usability of The Silver Searcher with the raw speed of grep
+      ripgrep
     ];
 
     user.extraGroups = [ "admin" ];
