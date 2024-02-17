@@ -100,7 +100,7 @@
       common-lisp.enable = false;
       db.enable = true;
       go.enable = false;
-      java.enable = true;
+      java.enable = false;
       julia.enable = false;
       lua.enable = false;
       node.enable = false;
