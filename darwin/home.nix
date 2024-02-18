@@ -2,8 +2,8 @@
 
 {
   home = {
-    username = "mathym";
-    homeDirectory = "/Users/mathym";
+    username = "jpesenhofer";
+    homeDirectory = "/Users/jpesenhofer";
     stateVersion = "22.11";
   };
 
