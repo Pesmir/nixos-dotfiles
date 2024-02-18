@@ -19,7 +19,7 @@ in
       port = port;
       storagePath = "/var/lib/photoprism";
       originalsPath = "/mnt/photos";
-      passwordFile = "/home/mathym/.config/dotfiles/secrets/photoprism.txt";
+      passwordFile = "/home/jpesenhofer/.config/dotfiles/secrets/photoprism.txt";
     };
 
     environment.systemPackages = [ config.services.photoprism.package ];

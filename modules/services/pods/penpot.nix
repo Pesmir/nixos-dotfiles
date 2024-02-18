@@ -93,7 +93,7 @@ in {
     };
     systemd.services = {
       docker-penpot-postgres.serviceConfig = {
-        User = "mathym";
+        User = "jpesenhofer";
         Group = "docker";
         CacheDirectory = "penpot/postgres";
         CacheDirectoryMode = "0750";

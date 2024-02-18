@@ -19,7 +19,7 @@ in
           {
             LISTEN_ADDR = "localhost:${toString port}";
           };
-        adminCredentialsFile = "/home/mathym/.config/dotfiles/secrets/miniflux.conf";
+        adminCredentialsFile = "/home/jpesenhofer/.config/dotfiles/secrets/miniflux.conf";
       };
     };
 

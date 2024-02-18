@@ -5,9 +5,9 @@
     ./brew.nix
   ];
 
-  users.users."mathym" = {
-    name = "mathym";
-    home = "/Users/mathym";
+  users.users."jpesenhofer" = {
+    name = "jpesenhofer";
+    home = "/Users/jpesenhofer";
   };
 
   # Nix configuration ------------------------------------------------------------------------------

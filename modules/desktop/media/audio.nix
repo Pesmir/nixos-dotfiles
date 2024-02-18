@@ -27,7 +27,7 @@ in {
         import-advanced-artist-tags = true;
         import-playlists = true;
         music-uris = [
-          "file:///home/mathym/music/library"
+          "file:///home/jpesenhofer/music/library"
         ];
         network-access-acl = 1048574;
         notification-flag = 3;

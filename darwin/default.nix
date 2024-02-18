@@ -2,7 +2,7 @@
 
 let
   system = "x86_64-darwin";
-  user = "mathym";
+  user = "jpesenhofer";
 in
 {
   macbook = darwin.lib.darwinSystem {

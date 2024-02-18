@@ -27,7 +27,7 @@ in {
       };
     };
     systemd.services.docker-vaultwarden.serviceConfig = {
-      User = "mathym";
+      User = "jpesenhofer";
       Group = "docker";
       CacheDirectory = "vaultwarden";
       CacheDirectoryMode = "0750";

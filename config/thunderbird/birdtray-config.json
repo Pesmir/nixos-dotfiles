@@ -2,23 +2,23 @@
     "accounts": [
         {
             "color": "#ff79c6",
-            "path": "/home/mathym/.config/thunderbird/fefsb5op.default/ImapMail/imap.easyname-1.com/INBOX.msf"
+            "path": "/home/jpesenhofer/.config/thunderbird/fefsb5op.default/ImapMail/imap.easyname-1.com/INBOX.msf"
         },
         {
             "color": "#bd93f9",
-            "path": "/home/mathym/.config/thunderbird/fefsb5op.default/ImapMail/imap.easyname-2.com/INBOX.msf"
+            "path": "/home/jpesenhofer/.config/thunderbird/fefsb5op.default/ImapMail/imap.easyname-2.com/INBOX.msf"
         },
         {
             "color": "#50fa7b",
-            "path": "/home/mathym/.config/thunderbird/fefsb5op.default/ImapMail/imap.easyname-3.com/INBOX.msf"
+            "path": "/home/jpesenhofer/.config/thunderbird/fefsb5op.default/ImapMail/imap.easyname-3.com/INBOX.msf"
         },
         {
             "color": "#8be9fd",
-            "path": "/home/mathym/.config/thunderbird/fefsb5op.default/ImapMail/imap.easyname.com/INBOX.msf"
+            "path": "/home/jpesenhofer/.config/thunderbird/fefsb5op.default/ImapMail/imap.easyname.com/INBOX.msf"
         },
         {
             "color": "#ff5555",
-            "path": "/home/mathym/.config/thunderbird/fefsb5op.default/ImapMail/sbox.tugraz.at/INBOX.msf"
+            "path": "/home/jpesenhofer/.config/thunderbird/fefsb5op.default/ImapMail/sbox.tugraz.at/INBOX.msf"
         }
     ],
     "advanced/blinkingusealpha": false,

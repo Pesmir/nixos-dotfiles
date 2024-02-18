@@ -34,7 +34,7 @@ in {
       };
     };
     systemd.services.docker-scrutiny.serviceConfig = {
-      User = "mathym";
+      User = "jpesenhofer";
       Group = "docker";
       CacheDirectory = "scrutiny";
       CacheDirectoryMode = "0750";

@@ -9,7 +9,7 @@ in {
     # Enable automatic login for the default user
     services.xserver.displayManager.autoLogin = {
       enable = mkDefault true;
-      user = "mathym";
+      user = "jpesenhofer";
     };
 
     assertions = [

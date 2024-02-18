@@ -35,7 +35,7 @@ in
     };
 
     systemd.services.docker-esphome.serviceConfig = {
-      User = "mathym";
+      User = "jpesenhofer";
       Group = "docker";
       CacheDirectory = "esphome";
       CacheDirectoryMode = "0750";

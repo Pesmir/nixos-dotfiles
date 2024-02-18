@@ -48,4 +48,4 @@ k9s:
     memory:
       critical: 90
       warn: 70
-  screenDumpDir: /tmp/k9s-screens-mathym
+  screenDumpDir: /tmp/k9s-screens-jpesenhofer

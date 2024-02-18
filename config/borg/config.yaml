@@ -1,7 +1,7 @@
 location:
     # List of source directories to backup.
     source_directories:
-        - /home/mathym/nts
+        - /home/jpesenhofer/nts
         - /mnt/photos
 
     # Paths of local or remote repositories to backup to.

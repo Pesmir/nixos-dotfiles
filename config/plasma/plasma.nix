@@ -845,8 +845,8 @@
       "khotkeysrc"."WM"."inactiveForeground[$d]" = "";
       "kscreenlockerrc"."Daemon"."LockGrace" = 15;
       "kscreenlockerrc"."Daemon"."Timeout" = 15;
-      "kscreenlockerrc"."Greeter.Wallpaper.org.kde.image.General"."Image" = "/home/mathym/Downloads/nix-wallpaper-dracula.png";
-      "kscreenlockerrc"."Greeter.Wallpaper.org.kde.image.General"."PreviewImage" = "/home/mathym/Downloads/nix-wallpaper-dracula.png";
+      "kscreenlockerrc"."Greeter.Wallpaper.org.kde.image.General"."Image" = "/home/jpesenhofer/Downloads/nix-wallpaper-dracula.png";
+      "kscreenlockerrc"."Greeter.Wallpaper.org.kde.image.General"."PreviewImage" = "/home/jpesenhofer/Downloads/nix-wallpaper-dracula.png";
       "kscreenlockerrc"."Greeter.Wallpaper.org.kde.image.General"."SlidePaths" = "/nix/store/g9fqjjysa87xm7mq8phggryvqjxd98s8-breeze-qt5-5.26.5-bin/share/wallpapers/,/run/current-system/sw/share/wallpapers/";
       "kwalletrc"."Wallet"."First Use" = false;
       "kwinrc"."Desktops"."Id_1" = "e7f66b2d-6e89-438c-ace2-5ef0cae36b6e";
@@ -872,7 +872,7 @@
       "kxkbrc"."Layout"."VariantList" = ",";
       "plasma-localerc"."Formats"."LANG" = "en_US.UTF-8";
       "plasmarc"."Theme"."name" = "Dracula-Solid";
-      "plasmarc"."Wallpapers"."usersWallpapers" = "/home/mathym/Downloads/nixos-dracula-wallpaper.png,/home/mathym/Downloads/nix-wallpaper-dracula.png";
+      "plasmarc"."Wallpapers"."usersWallpapers" = "/home/jpesenhofer/Downloads/nixos-dracula-wallpaper.png,/home/jpesenhofer/Downloads/nix-wallpaper-dracula.png";
       "systemsettingsrc"."KFileDialog Settings"."detailViewIconSize" = 16;
     };
   };
